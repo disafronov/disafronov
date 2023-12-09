@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Переезд на Github Pages](https://cyberbrain.pw/2023/12/09/%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%BD%D0%B0-github-pages.html)
-- [Про творчество](https://cyberbrain.pw/2015/10/15/pro-tvorchestvo.html)
-- [Про психиатрию](https://cyberbrain.pw/2015/10/15/pro-psihiatriyu.html)
-- [Обречен помнить](https://cyberbrain.pw/2014/11/01/obrechen-pomnit.html)
-- [Про кошачьих](https://cyberbrain.pw/2014/01/18/pro-koshachih.html)
+- [STARSET - My Demons](https://cyberbrain.pw/2018/11/06/starset-my-demons.html)
+- [Hang Massive - The Secret Kissing of the Sun and Moon [ Official Video ]](https://cyberbrain.pw/2018/09/26/hang-massive-the-secret-kissing-of-the-sun-and-moon-official-video.html)
+- [World of Warcraft - Daughter of the Sea &lpar;Warbringers: Jaina&rpar; Gingertail Cover](https://cyberbrain.pw/2018/09/24/world-of-warcraft-daughter-of-the-sea-warbringers-jaina-gingertail-cover.html)
+- [AUTOMATICA - Robots Vs. Music - Nigel Stanford](https://cyberbrain.pw/2018/09/16/automatica-robots-vs-music-nigel-stanford.html)
 <!-- BLOG-POST-LIST:END -->
