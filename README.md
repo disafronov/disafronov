@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Переезд на Github Pages](https://cyberbrain.pw/2023/12/09/%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%BD%D0%B0-github-pages.html)
-- [STARSET - My Demons](https://cyberbrain.pw/2018/11/06/starset-my-demons.html)
-- [Hang Massive - The Secret Kissing of the Sun and Moon [ Official Video ]](https://cyberbrain.pw/2018/09/26/hang-massive-the-secret-kissing-of-the-sun-and-moon-official-video.html)
-- [World of Warcraft - Daughter of the Sea &lpar;Warbringers: Jaina&rpar; Gingertail Cover](https://cyberbrain.pw/2018/09/24/world-of-warcraft-daughter-of-the-sea-warbringers-jaina-gingertail-cover.html)
-- [AUTOMATICA - Robots Vs. Music - Nigel Stanford](https://cyberbrain.pw/2018/09/16/automatica-robots-vs-music-nigel-stanford.html)
+- [Проходные выключатели без проводов](https://cyberbrain.pw/2022/01/17/prohodnye-vyklyuchateli-bez-provodov.html)
+- [Моё приложение для Android прошло государственную регистрацию](https://cyberbrain.pw/2021/06/10/moyo-prilozhenie-dlya-android-proshlo-gosudarstvennuyu-registraciyu.html)
+- [Как отключить отображение системных пользователей на экране входа в систему &lpar;LightDM&rpar;](https://cyberbrain.pw/2020/08/04/kak-otklyu-chit-otobrazhenie-sistemnyh-polzovatelej-na-jekrane-vhoda-v-sistemu-lightdm.html)
+- [Acer Nitro 5 &lpar;AN515-55-53TJ&rpar; disable RST](https://cyberbrain.pw/2020/08/03/acer-nitro-5-an515-55-53tj-disable-rst.html)
+- [Замена сбойного диска в программном RAID](https://cyberbrain.pw/2020/07/28/trashed.html)
 <!-- BLOG-POST-LIST:END -->
