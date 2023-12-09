@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Переезд на Github Pages](https://cyberbrain.pw/2023/12/09/%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%BD%D0%B0-github-pages.html)
-- [Файловая помойка - она же WeDro, aka WD MyBook Live](https://cyberbrain.pw/2013/05/21/fajlovaya-pomojka-ona-zhe-wedro-aka-wd-mybook-live.html)
+- [Сетевое хранилище - userspace. Потихоньку свожу в кучу заявленные раньше сервисы.](https://cyberbrain.pw/2013/05/23/setevoe-hranilische-userspace-potihonku-svozhu-v-kuchu-zayavlennye-ranshe-servisy.html)
+- [Сетевое хранилище - необходимые &lpar;и не очень&rpar; сервисы.](https://cyberbrain.pw/2013/05/22/setevoe-hranilishhe-neobhodimye-i-ne-ochen-servisy.html)
+- [Файловая помойка - она же WeDro, aka WD MyBook Live.](https://cyberbrain.pw/2013/05/21/fajlovaya-pomojka-ona-zhe-wedro-aka-wd-mybook-live.html)
 <!-- BLOG-POST-LIST:END -->
