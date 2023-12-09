@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Переезд на Github Pages](https://cyberbrain.pw/2023/12/09/%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%BD%D0%B0-github-pages.html)
 <!-- BLOG-POST-LIST:END -->
