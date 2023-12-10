@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Blog posts
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Проходные выключатели без проводов](https://cyberbrain.pw/2022/01/17/prohodnye-vyklyuchateli-bez-provodov.html)
 - [Моё приложение для Android прошло государственную регистрацию](https://cyberbrain.pw/2021/06/10/moyo-prilozhenie-dlya-android-proshlo-gosudarstvennuyu-registraciyu.html)
