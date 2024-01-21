@@ -1,5 +1,7 @@
 # Hi there 👋
 
+My name is Dmitriy Safronov. I love automating things.
+
 <!--
 **DmitriySafronov/DmitriySafronov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +20,24 @@ Here are some ideas to get you started:
 ## My repositories filtered
 
 ### Ansible
+
 - [Ansible roles](https://github.com/dmitriysafronov?tab=repositories&q=ansible_role&type=source)
 - [Ansible templates](https://github.com/dmitriysafronov?tab=repositories&q=ansible&type=template)
 
+### DevOps tools
+
+- [Helm charts](https://github.com/dmitriysafronov/helm-charts)
+- [FluxCD2 stuff](https://github.com/dmitriysafronov?tab=repositories&q=flux2&type=source)
+- [Dummy Apps](https://github.com/dmitriysafronov?tab=repositories&q=dummy&type=source)
+
 ### Home automation
+
 - [Home Assistant](https://github.com/dmitriysafronov?tab=repositories&q=home-assistant&type=source)
+
+### Other
+
+- [My forks](https://github.com/dmitriysafronov?tab=repositories&type=fork)
+- [Archived](https://github.com/dmitriysafronov?tab=repositories&type=archived)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
