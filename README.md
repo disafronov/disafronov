@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ## My repositories filtered
+
 ### Ansible
 - [Ansible roles](https://github.com/dmitriysafronov?tab=repositories&q=ansible_role&type=source)
 - [Ansible templates](https://github.com/dmitriysafronov?tab=repositories&q=ansible&type=template)
+
+### Home automation
+- [Home Assistant](https://github.com/dmitriysafronov?tab=repositories&q=home-assistant&type=source)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
