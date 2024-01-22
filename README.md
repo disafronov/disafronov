@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - [Helm charts](https://github.com/dmitriysafronov/helm-charts)
 - [Home Assistant](https://github.com/dmitriysafronov?tab=repositories&q=home-assistant&type=source)
 
-[Forks](https://github.com/dmitriysafronov?tab=repositories&type=fork) | [Archived](https://github.com/dmitriysafronov?tab=repositories&type=archived)
+* [Forks](https://github.com/dmitriysafronov?tab=repositories&type=fork) | [Archived](https://github.com/dmitriysafronov?tab=repositories&type=archived)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
