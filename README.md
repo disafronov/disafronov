@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - [Ansible roles](https://github.com/dmitriysafronov?tab=repositories&q=ansible_role&type=source)
 - [Ansible templates](https://github.com/dmitriysafronov?tab=repositories&q=ansible&type=template)
 - [Dummy Apps](https://github.com/dmitriysafronov?tab=repositories&q=dummy&type=source)
-- [FluxCD2 stuff](https://github.com/dmitriysafronov?tab=repositories&q=flux2&type=source)
+- [Flux2 stuff](https://github.com/dmitriysafronov?tab=repositories&q=flux2&type=source)
 - [Helm charts](https://github.com/dmitriysafronov/helm-charts)
 - [Home Assistant](https://github.com/dmitriysafronov?tab=repositories&q=home-assistant&type=source)
 
