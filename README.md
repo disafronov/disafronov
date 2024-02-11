@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - [Dummy Apps](https://github.com/dmitriysafronov?tab=repositories&q=dummy&type=source)
 - [Flux2 stuff](https://github.com/dmitriysafronov?tab=repositories&q=flux2&type=source)
 - [Helm charts](https://github.com/dmitriysafronov/helm-charts)
+- [Github Actions](https://github.com/dmitriysafronov?tab=repositories&q=GitHub+Action&type=source)
 - [Home Assistant](https://github.com/dmitriysafronov?tab=repositories&q=home-assistant&type=source)
 
 * [Forks](https://github.com/dmitriysafronov?tab=repositories&type=fork) | [Archived](https://github.com/dmitriysafronov?tab=repositories&type=archived)
