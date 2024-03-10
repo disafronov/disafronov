@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - [Ansible roles](https://github.com/dmitriysafronov?tab=repositories&q=ansible_role&type=source)
 - [Ansible templates](https://github.com/dmitriysafronov?tab=repositories&q=ansible&type=template)
+- [Docker stuff](https://github.com/dmitriysafronov?tab=repositories&q=docker&type=source)
 - [Dummy Apps](https://github.com/dmitriysafronov?tab=repositories&q=dummy&type=source)
 - [Flux2 stuff](https://github.com/dmitriysafronov?tab=repositories&q=flux2&type=source)
 - [Helm charts](https://github.com/dmitriysafronov/helm-charts)
