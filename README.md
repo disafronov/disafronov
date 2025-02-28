@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 I'm available for hire.
 
 My name is Dmitriy Safronov. I love automating things.
 
