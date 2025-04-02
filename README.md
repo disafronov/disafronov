@@ -6,7 +6,7 @@ My name is Dmitriy Safronov. I love automating things.
 
 Skilled DevOps Engineer with expertise in infrastructure automation, container orchestration, and cloud migration. Proficient in Linux, Docker, Kubernetes, Ansible, and Terraform, with a focus on infrastructure as code (IaC) and GitOps practices. Experienced in automating workflows, managing virtualized environments, and ensuring security compliance. Strong problem-solving abilities and a track record of optimizing and modernizing infrastructure to enhance operational efficiency and scalability.
 
-## My repositories filtered
+## My repositories filtered by themes
 
 - [Ansible roles](https://github.com/dmitriysafronov?tab=repositories&q=ansible_role&type=source)
 - [Ansible templates](https://github.com/dmitriysafronov?tab=repositories&q=ansible&type=template)
