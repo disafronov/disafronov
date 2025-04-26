@@ -8,16 +8,16 @@ Skilled DevOps Engineer with expertise in infrastructure automation, container o
 
 ## My repositories filtered by themes
 
-- [Ansible roles](https://github.com/dmitriysafronov?tab=repositories&q=ansible_role&type=source)
-- [Ansible templates](https://github.com/dmitriysafronov?tab=repositories&q=ansible&type=template)
-- [Docker stuff](https://github.com/dmitriysafronov?tab=repositories&q=docker&type=source)
-- [Dummy Apps](https://github.com/dmitriysafronov?tab=repositories&q=dummy&type=source)
-- [Flux2 stuff](https://github.com/dmitriysafronov?tab=repositories&q=flux2&type=source)
-- [Helm charts](https://github.com/dmitriysafronov/helm-charts)
-- [Github Actions](https://github.com/dmitriysafronov?tab=repositories&q=GitHub+Action&type=source)
-- [Home Assistant](https://github.com/dmitriysafronov?tab=repositories&q=home-assistant&type=source)
+- [Ansible roles](https://github.com/disafronov?tab=repositories&q=ansible_role&type=source)
+- [Ansible templates](https://github.com/disafronov?tab=repositories&q=ansible&type=template)
+- [Docker stuff](https://github.com/disafronov?tab=repositories&q=docker&type=source)
+- [Dummy Apps](https://github.com/disafronov?tab=repositories&q=dummy&type=source)
+- [Flux2 stuff](https://github.com/disafronov?tab=repositories&q=flux2&type=source)
+- [Helm charts](https://github.com/disafronov/helm-charts)
+- [Github Actions](https://github.com/disafronov?tab=repositories&q=GitHub+Action&type=source)
+- [Home Assistant](https://github.com/disafronov?tab=repositories&q=home-assistant&type=source)
 
-* [Forks](https://github.com/dmitriysafronov?tab=repositories&type=fork) | [Archived](https://github.com/dmitriysafronov?tab=repositories&type=archived)
+* [Forks](https://github.com/disafronov?tab=repositories&type=fork) | [Archived](https://github.com/disafronov?tab=repositories&type=archived)
 
 ## Latest [blog](https://cyberbrain.pw) posts
 <!-- BLOG-POST-LIST:START -->
