@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Dmitriy Safronov. I love automating things.
+My name is Dmitrii Safronov. I love automating things.
 
 ## About me
 
