@@ -19,7 +19,7 @@ Skilled DevOps Engineer with expertise in infrastructure automation, container o
 
 * [Forks](https://github.com/disafronov?tab=repositories&type=fork) | [Archived](https://github.com/disafronov?tab=repositories&type=archived)
 
-## Latest [blog](https://cyberbrain.pw) posts
+## Latest [blog](https://cyberbrain.cc) posts
 <!-- BLOG-POST-LIST:START -->
 - [Настройка доступа к Ingress нескольких кластеров Kubernetes, находящихся в сети за NAT](http://cyberbrain.cc/2023/12/14/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0-%D0%BA-ingress-%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%B8%D1%85-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B2-kubernetes-%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D1%85%D1%81%D1%8F-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-%D0%B7%D0%B0-nat.html)
 - [Проходные выключатели без проводов](http://cyberbrain.cc/2022/01/17/prohodnye-vyklyuchateli-bez-provodov.html)
