@@ -12,10 +12,12 @@ Skilled DevOps Engineer with expertise in infrastructure automation, container o
 - [Ansible templates](https://github.com/disafronov?tab=repositories&q=ansible&type=template)
 - [Docker stuff](https://github.com/disafronov?tab=repositories&q=docker&type=source)
 - [Dummy Apps](https://github.com/disafronov?tab=repositories&q=dummy&type=source)
+- [ETL: prometheus2clickhouse](https://github.com/disafronov/etl-prometheus2clickhouse)
 - [Flux2 stuff](https://github.com/disafronov?tab=repositories&q=flux2&type=source)
 - [Helm charts](https://github.com/disafronov/helm-charts)
 - [Github Actions](https://github.com/disafronov?tab=repositories&q=GitHub+Action&type=source)
 - [Home Assistant](https://github.com/disafronov?tab=repositories&q=home-assistant&type=source)
+- [Python: Logging objects with schema (library)](https://github.com/disafronov/python-logging-objects-with-schema)
 
 * [Forks](https://github.com/disafronov?tab=repositories&type=fork) | [Archived](https://github.com/disafronov?tab=repositories&type=archived)
 
