@@ -4,6 +4,8 @@ My name is Dmitrii Safronov. I love automating things.
 
 Repositories are artifacts. The interesting part is the topology between them.
 
+[Engineering Principles](Engineering_Principles.md)
+
 ## About me
 
 Skilled engineer with expertise in infrastructure automation, container orchestration, and cloud migration. Proficient in Linux, Docker, Kubernetes, Ansible, and Terraform, with a focus on infrastructure as code (IaC) and GitOps practices. Experienced in automating workflows, managing virtualized environments, and ensuring security compliance. Strong problem-solving abilities and a track record of optimizing and modernizing infrastructure to enhance operational efficiency and scalability.
