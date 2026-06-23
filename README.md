@@ -8,7 +8,7 @@ Repositories are artifacts. The interesting part is the topology between them.
 
 [Engineering Principles](Engineering_Principles.md)
 
-## My repositories filtered by themes
+## Systems and tooling by theme
 
 - [Python: Logging objects with schema (library)](https://github.com/disafronov/python-logging-objects-with-schema)
 - [ETL: prometheus2clickhouse](https://github.com/disafronov/etl-prometheus2clickhouse)
