@@ -1,14 +1,12 @@
 # Hi there 👋
 
-My name is Dmitrii Safronov. I love automating things.
+My name is Dmitrii Safronov.
+
+I build systems that survive their creators.
 
 Repositories are artifacts. The interesting part is the topology between them.
 
 [Engineering Principles](Engineering_Principles.md)
-
-## About me
-
-Infrastructure and platform engineer building operational tooling, automation systems, and portable infrastructure.
 
 ## My repositories filtered by themes
 
