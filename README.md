@@ -12,6 +12,7 @@ Repositories are artifacts. The interesting part is the topology between them.
 
 - [Python: Logging objects with schema (library)](https://github.com/disafronov/python-logging-objects-with-schema)
 - [ETL: prometheus2clickhouse](https://github.com/disafronov/etl-prometheus2clickhouse)
+- [AI stuff](https://github.com/disafronov?tab=repositories&q=ai&type=source)
 - [Flux2 stuff](https://github.com/disafronov?tab=repositories&q=flux2&type=source)
 - [Helm charts](https://github.com/disafronov/helm-charts)
 - [Ansible roles](https://github.com/disafronov?tab=repositories&q=ansible_role&type=source)
