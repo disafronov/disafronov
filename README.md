@@ -6,7 +6,7 @@ I build systems that survive their creators.
 
 Repositories are artifacts. The interesting part is the topology between them.
 
-## Engineering Principles
+## Engineering principles
 
 ### Constraints
 
@@ -14,14 +14,14 @@ Repositories are artifacts. The interesting part is the topology between them.
 - Configuration is part of the system contract
 - Operational behavior must be observable
 
-### System Properties
+### System properties
 
 - Portability is a system property
 - Observability is architecture, not tooling
 - Schemas are operational artifacts
 - Configuration is validated before execution
 
-### Operational Assumptions
+### Operational assumptions
 
 - Applications should not depend on reading their own runtime state
 - Integration boundaries must be explicit
