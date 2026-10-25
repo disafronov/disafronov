@@ -39,7 +39,7 @@ Repositories are artifacts. The interesting part is the topology between them.
 - [Ansible templates](https://github.com/disafronov?tab=repositories&q=ansible&type=template)
 - [Docker Tools](https://github.com/disafronov?tab=repositories&q=docker&type=source)
 - [Dummy Apps](https://github.com/disafronov?tab=repositories&q=dummy&type=source)
-- [Github Actions](https://github.com/disafronov?tab=repositories&q=GitHub+Action&type=source)
+- [GitHub Actions](https://github.com/disafronov?tab=repositories&q=GitHub+Action&type=source)
 - [Home Assistant](https://github.com/disafronov?tab=repositories&q=home-assistant&type=source)
 - [Forks](https://github.com/disafronov?tab=repositories&type=fork) | [Archived](https://github.com/disafronov?tab=repositories&type=archived)
 
