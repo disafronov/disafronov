@@ -42,7 +42,60 @@ Repositories are artifacts. The interesting part is the topology between them.
 - [Github Actions](https://github.com/disafronov?tab=repositories&q=GitHub+Action&type=source)
 - [Home Assistant](https://github.com/disafronov?tab=repositories&q=home-assistant&type=source)
 
-* [Forks](https://github.com/disafronov?tab=repositories&type=fork) | [Archived](https://github.com/disafronov?tab=repositories&type=archived)
+- [Forks](https://github.com/disafronov?tab=repositories&type=fork) | [Archived](https://github.com/disafronov?tab=repositories&type=archived)
+
+### Template propagation
+
+Changes propagate through a hierarchy of templates.
+Synchronizers are represented by edge labels.
+
+```mermaid
+flowchart TB
+    BT["basic-template"]
+    SBT["semantic-basic-template"]
+
+    SST["semantic-shell-template"]
+    SDT["semantic-docker-template"]
+    ART["ansible_role-template"]
+    APT["ansible_project-template"]
+    ULT["update_lists-template"]
+    TST["template_sync-template"]
+
+    BT -->|"template_sync-basic"| SBT
+
+    SBT -->|"template_sync-semantic-basic"| SST
+    SBT -->|"template_sync-semantic-basic"| SDT
+    SBT -->|"template_sync-semantic-basic"| ART
+    SBT -->|"template_sync-semantic-basic"| APT
+    SBT -->|"template_sync-semantic-basic"| ULT
+    SBT -->|"template_sync-semantic-basic"| TST
+
+    SBT -->|"template_sync-semantic-basic"| OM["opencode-memoir"]
+    SBT -->|"template_sync-semantic-basic"| DJ["django-telegram-q2"]
+    SBT -->|"template_sync-semantic-basic"| OH["omniroute-hybrid-setup"]
+    SBT -->|"template_sync-semantic-basic"| BM["… other repositories"]
+
+    SST -->|"template_sync-semantic-shell"| SIMPLE["simple-sandbox"]
+    SST -->|"template_sync-semantic-shell"| SHELL["shell-tools"]
+    SST -->|"template_sync-semantic-shell"| SM["… other repositories"]
+
+    SDT -->|"template_sync-semantic-docker"| SK["skilled"]
+    SDT -->|"template_sync-semantic-docker"| DM["… other repositories"]
+
+    ART -->|"template_sync-ansible_role"| ROLES["Ansible roles · …"]
+    APT -->|"template_sync-ansible_project"| PROJECTS["Ansible projects · …"]
+
+    ULT -->|"update_list-sync"| LISTS["List consumers · …"]
+
+    TST -->|"template_sync"| TS["template_sync-*"]
+    TST -->|"template_sync-template_sync"| TSM["Other synchronizers · …"]
+
+    classDef template fill:#dbeafe,stroke:#2563eb,color:#1e3a8a,stroke-width:2px
+    classDef receiver fill:#f3f4f6,stroke:#9ca3af,color:#111827
+
+    class BT,SBT,SST,SDT,ART,APT,ULT,TST template
+    class OM,DJ,OH,BM,SIMPLE,SHELL,SM,SK,DM,ROLES,PROJECTS,LISTS,TS,TSM receiver
+```
 
 ## Latest [blog](https://cyberbrain.cc) posts
 <!-- BLOG-POST-LIST:START -->
