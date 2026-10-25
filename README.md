@@ -45,8 +45,9 @@ Repositories are artifacts. The interesting part is the topology between them.
 
 ### Template propagation
 
-Changes propagate through a hierarchy of templates.
-Synchronizers are represented by edge labels.
+To avoid maintaining shared workflows and configurations separately across repositories, changes are propagated through a hierarchy of versioned templates.
+
+Dedicated synchronizers handle propagation, shown as edge labels in the diagram below.
 
 ```mermaid
 flowchart TB
