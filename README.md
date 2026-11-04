@@ -8,25 +8,11 @@ Repositories are artifacts. The interesting part is the topology between them.
 
 ## Engineering principles
 
-### Constraints
-
-- Contracts must be explicit and enforceable
-- Configuration is part of the system contract
-- Operational behavior must be observable
-
-### System properties
-
-- Portability is a system property
-- Observability is architecture, not tooling
-- Schemas are operational artifacts
-- Configuration is validated before execution
-
-### Operational assumptions
-
-- Applications should not depend on reading their own runtime state
-- Integration boundaries must be explicit
-- State minimization is preferred over state synchronization
-- Invalid configuration must fail fast
+- Contracts must be explicit and enforceable. Configuration is part of the system contract.
+- Operational behavior must be observable. Observability is architecture, not tooling. Responsibility belongs to every team.
+- Portability is a system property. A setup that only works from one laptop is not finished.
+- Application instances should not rely on local state. State minimization beats state synchronization.
+- Invalid configuration must fail at startup, not after someone starts debugging production.
 
 ## Systems and tooling by theme
 
